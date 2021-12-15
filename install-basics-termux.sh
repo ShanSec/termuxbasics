@@ -33,7 +33,8 @@ apt install bmon -y && apt install vim -y &&  apt install unzip -y && apt instal
 sleep 1.5 && clear && sleep 1.5
 apt install fish -y && apt install coreutils -y && apt install dnsutils -y && apt install clang -y && apt install openssl nano -y
 sleep 1.5 && clear && sleep 1.5
-
+apt install dirb && apt install cmatrix -y && apt install lynx -y
+sleep 1.5 && clear && sleep 1.5
 
  
  
